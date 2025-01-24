@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/search-sync/ping
-status: up
-code: 200
+status: down
+code: 503
 responseTime: 227
-lastUpdated: 2025-01-24T02:01:24.079Z
+lastUpdated: 2025-01-24T04:55:51.040Z
 startTime: 2025-01-24T01:54:28.788Z
 generator: Upptime <https://github.com/upptime/upptime>
