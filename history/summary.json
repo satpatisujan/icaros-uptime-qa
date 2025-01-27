@@ -60,19 +60,19 @@
     "url": "https://qa.inframarket.cloud/carts/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "carts",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 221,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 222,
     "timeDay": 228,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://qa.inframarket.cloud/cheque/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "cheque",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 223,
-    "timeDay": 228,
+    "timeDay": 226,
     "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -172,19 +172,19 @@
     "url": "https://qa.inframarket.cloud/davs/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "davs",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 223,
-    "timeDay": 231,
+    "timeDay": 228,
     "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -286,19 +286,19 @@
     "url": "https://qa.inframarket.cloud/identity/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "identity",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 220,
     "timeDay": 222,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -306,19 +306,19 @@
     "url": "https://qa.inframarket.cloud/influencers/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "influencers",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 220,
-    "timeDay": 228,
+    "timeDay": 227,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -362,19 +362,19 @@
     "url": "https://qa.inframarket.cloud/kms/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "kms",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 221,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 222,
     "timeDay": 223,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -382,19 +382,19 @@
     "url": "https://qa.inframarket.cloud/kycs/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "ky-cs",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 220,
     "timeDay": 222,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -402,19 +402,19 @@
     "url": "https://qa.inframarket.cloud/lead/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "lead",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 223,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 224,
     "timeDay": 227,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -440,19 +440,19 @@
     "url": "https://qa.inframarket.cloud/loyalty-orchestration/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "loyalty-orchestration",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 220,
     "timeDay": 227,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -498,19 +498,19 @@
     "url": "https://qa.inframarket.cloud/orders/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "orders",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 221,
-    "timeDay": 227,
+    "timeDay": 226,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -536,19 +536,19 @@
     "url": "https://qa.inframarket.cloud/pis/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "pis",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 220,
-    "timeDay": 227,
+    "timeDay": 226,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -556,19 +556,19 @@
     "url": "https://qa.inframarket.cloud/payout/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "payout",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 221,
-    "timeDay": 228,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 222,
+    "timeDay": 227,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -576,19 +576,19 @@
     "url": "https://qa.inframarket.cloud/pn/customers/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "pn-customers",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 221,
     "timeDay": 224,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -596,19 +596,19 @@
     "url": "https://qa.inframarket.cloud/pricing/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "pricing",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 223,
-    "timeDay": 228,
+    "timeDay": 226,
     "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -636,19 +636,19 @@
     "url": "https://qa.inframarket.cloud/quotations/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "quotations",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 219,
-    "timeDay": 218,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 220,
+    "timeDay": 219,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -674,19 +674,19 @@
     "url": "https://qa.inframarket.cloud/search-sync/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "search-sync",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 221,
-    "timeDay": 227,
+    "timeDay": 226,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -694,19 +694,19 @@
     "url": "https://qa.inframarket.cloud/serviceability/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "serviceability",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 222,
-    "timeDay": 232,
+    "timeDay": 229,
     "timeWeek": 222,
     "timeMonth": 222,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -714,19 +714,19 @@
     "url": "https://qa.inframarket.cloud/stores/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "stores",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 218,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 219,
     "timeDay": 228,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -734,19 +734,19 @@
     "url": "https://qa.inframarket.cloud/suppliers/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "suppliers",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 220,
-    "timeDay": 228,
+    "timeDay": 226,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -754,19 +754,19 @@
     "url": "https://qa.inframarket.cloud/tallyi/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "tally-i",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 220,
-    "timeDay": 228,
+    "timeDay": 226,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 1
+      "2025-01-27": 9
     }
   },
   {
@@ -774,19 +774,19 @@
     "url": "https://qa.inframarket.cloud/task/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "task",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 220,
-    "timeDay": 227,
+    "timeDay": 225,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 0
+      "2025-01-27": 9
     }
   },
   {
@@ -812,19 +812,19 @@
     "url": "https://qa.inframarket.cloud/tickets/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "tickets",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 218,
-    "timeDay": 218,
+    "timeDay": 219,
     "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-01-27": 18
+      "2025-01-27": 27
     }
   },
   {
@@ -833,11 +833,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "trips",
     "status": "up",
-    "uptime": "88.24%",
+    "uptime": "88.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.24%",
-    "uptimeMonth": "88.24%",
-    "uptimeYear": "88.24%",
+    "uptimeWeek": "88.26%",
+    "uptimeMonth": "88.26%",
+    "uptimeYear": "88.26%",
     "time": 218,
     "timeDay": 232,
     "timeWeek": 218,
@@ -853,11 +853,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "users",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "97.35%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.26%",
     "time": 219,
     "timeDay": 218,
     "timeWeek": 219,
@@ -872,19 +872,19 @@
     "url": "https://qa.inframarket.cloud/vehicles/ping",
     "icon": "https://icons.duckduckgo.com/ip3/qa.inframarket.cloud.ico",
     "slug": "vehicles",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 221,
-    "timeDay": 227,
+    "timeDay": 226,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-01-27": 0
+      "2025-01-27": 9
     }
   },
   {
