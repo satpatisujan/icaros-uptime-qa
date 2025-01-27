@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/davs/ping
-status: down
-code: 503
-responseTime: 224
-lastUpdated: 2025-01-27T15:17:33.565Z
+status: up
+code: 200
+responseTime: 223
+lastUpdated: 2025-01-27T15:26:58.355Z
 startTime: 2025-01-24T01:54:16.188Z
 generator: Upptime <https://github.com/upptime/upptime>
