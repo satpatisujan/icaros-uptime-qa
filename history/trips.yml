@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/trips/ping
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2025-01-27T23:16:17.548Z
+status: down
+code: 503
+responseTime: 230
+lastUpdated: 2025-01-28T03:49:50.107Z
 startTime: 2025-01-24T01:54:32.834Z
 generator: Upptime <https://github.com/upptime/upptime>
