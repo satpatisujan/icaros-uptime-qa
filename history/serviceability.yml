@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/serviceability/ping
-status: down
-code: 503
-responseTime: 229
-lastUpdated: 2025-01-29T07:59:39.010Z
+status: up
+code: 200
+responseTime: 206
+lastUpdated: 2025-01-29T08:19:31.283Z
 startTime: 2025-01-24T01:54:29.268Z
 generator: Upptime <https://github.com/upptime/upptime>
