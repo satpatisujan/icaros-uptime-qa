@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/fulfilment/ping
-status: up
-code: 200
-responseTime: 204
-lastUpdated: 2025-01-29T07:22:46.510Z
+status: down
+code: 503
+responseTime: 205
+lastUpdated: 2025-01-29T07:29:38.832Z
 startTime: 2025-01-24T01:54:18.630Z
 generator: Upptime <https://github.com/upptime/upptime>
