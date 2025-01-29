@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/erp-integration/ping
-status: down
-code: 503
-responseTime: 205
-lastUpdated: 2025-01-29T07:29:36.652Z
+status: up
+code: 200
+responseTime: 206
+lastUpdated: 2025-01-29T07:37:37.566Z
 startTime: 2025-01-24T01:54:18.154Z
 generator: Upptime <https://github.com/upptime/upptime>
