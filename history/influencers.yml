@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/influencers/ping
-status: up
-code: 200
-responseTime: 201
-lastUpdated: 2025-01-28T23:15:49.824Z
+status: down
+code: 503
+responseTime: 238
+lastUpdated: 2025-01-29T04:49:52.761Z
 startTime: 2025-01-24T01:54:19.621Z
 generator: Upptime <https://github.com/upptime/upptime>
