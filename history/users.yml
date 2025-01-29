@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/users/ping
-status: down
-code: 503
-responseTime: 199
-lastUpdated: 2025-01-29T07:08:17.265Z
+status: up
+code: 200
+responseTime: 206
+lastUpdated: 2025-01-29T07:23:05.949Z
 startTime: 2025-01-24T01:54:35.048Z
 generator: Upptime <https://github.com/upptime/upptime>
