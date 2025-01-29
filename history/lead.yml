@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/lead/ping
-status: down
-code: 503
-responseTime: 199
-lastUpdated: 2025-01-29T07:07:59.082Z
+status: up
+code: 200
+responseTime: 208
+lastUpdated: 2025-01-29T07:22:49.862Z
 startTime: 2025-01-24T01:54:22.047Z
 generator: Upptime <https://github.com/upptime/upptime>
