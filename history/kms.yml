@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/kms/ping
-status: down
-code: 503
-responseTime: 205
-lastUpdated: 2025-01-30T09:27:44.901Z
+status: up
+code: 200
+responseTime: 201
+lastUpdated: 2025-01-30T09:35:39.710Z
 startTime: 2025-01-24T01:54:21.072Z
 generator: Upptime <https://github.com/upptime/upptime>
