@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/tallyi/ping
-status: down
-code: 503
-responseTime: 205
-lastUpdated: 2025-01-30T09:28:07.918Z
+status: up
+code: 200
+responseTime: 203
+lastUpdated: 2025-01-30T09:35:58.821Z
 startTime: 2025-01-24T01:54:30.766Z
 generator: Upptime <https://github.com/upptime/upptime>
