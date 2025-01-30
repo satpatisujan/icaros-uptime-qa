@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/customers/ping
-status: up
-code: 200
-responseTime: 217
-lastUpdated: 2025-01-29T23:15:42.390Z
+status: down
+code: 503
+responseTime: 213
+lastUpdated: 2025-01-30T08:49:42.953Z
 startTime: 2025-01-24T01:54:15.237Z
 generator: Upptime <https://github.com/upptime/upptime>
