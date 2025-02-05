@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/payout/ping
-status: down
-code: 503
-responseTime: 208
-lastUpdated: 2025-02-05T11:51:59.935Z
+status: up
+code: 200
+responseTime: 235
+lastUpdated: 2025-02-05T11:58:54.181Z
 startTime: 2025-01-24T01:54:25.878Z
 generator: Upptime <https://github.com/upptime/upptime>
