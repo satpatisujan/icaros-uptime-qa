@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/enum-integration/ping
-status: down
-code: 503
-responseTime: 226
-lastUpdated: 2025-02-05T06:14:17.983Z
+status: up
+code: 200
+responseTime: 237
+lastUpdated: 2025-02-05T06:35:47.242Z
 startTime: 2025-01-24T01:54:17.660Z
 generator: Upptime <https://github.com/upptime/upptime>
