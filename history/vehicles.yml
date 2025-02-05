@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/vehicles/ping
-status: up
-code: 200
-responseTime: 210
-lastUpdated: 2025-02-05T04:58:36.831Z
+status: down
+code: 503
+responseTime: 223
+lastUpdated: 2025-02-05T05:42:40.344Z
 startTime: 2025-01-24T01:54:35.530Z
 generator: Upptime <https://github.com/upptime/upptime>
