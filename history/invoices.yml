@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/invoices/ping
-status: down
-code: 503
-responseTime: 222
-lastUpdated: 2025-02-10T04:53:25.452Z
+status: up
+code: 200
+responseTime: 210
+lastUpdated: 2025-02-10T05:00:19.202Z
 startTime: 2025-01-24T01:54:20.584Z
 generator: Upptime <https://github.com/upptime/upptime>
