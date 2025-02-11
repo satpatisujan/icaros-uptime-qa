@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/identity/ping
-status: down
-code: 503
-responseTime: 227
-lastUpdated: 2025-02-11T06:50:08.309Z
+status: up
+code: 200
+responseTime: 231
+lastUpdated: 2025-02-11T06:56:58.715Z
 startTime: 2025-01-24T01:54:19.130Z
 generator: Upptime <https://github.com/upptime/upptime>
