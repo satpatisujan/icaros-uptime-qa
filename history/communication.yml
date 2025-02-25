@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/communication/ping
-status: down
-code: 503
-responseTime: 231
-lastUpdated: 2025-02-25T15:15:43.815Z
+status: up
+code: 200
+responseTime: 223
+lastUpdated: 2025-02-25T16:15:10.659Z
 startTime: 2025-01-24T01:54:14.273Z
 generator: Upptime <https://github.com/upptime/upptime>
