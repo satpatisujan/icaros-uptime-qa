@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/loyalty/ping
-status: up
-code: 200
-responseTime: 222
-lastUpdated: 2025-02-26T06:14:44.383Z
+status: down
+code: 503
+responseTime: 206
+lastUpdated: 2025-02-26T09:30:53.860Z
 startTime: 2025-01-24T01:54:23.474Z
 generator: Upptime <https://github.com/upptime/upptime>
