@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/tax/ping
-status: down
-code: 502
-responseTime: 223
-lastUpdated: 2025-03-20T14:14:22.769Z
+status: up
+code: 200
+responseTime: 225
+lastUpdated: 2025-03-20T14:34:33.906Z
 startTime: 2025-01-24T01:54:31.857Z
 generator: Upptime <https://github.com/upptime/upptime>
