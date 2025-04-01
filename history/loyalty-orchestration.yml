@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/loyalty-orchestration/ping
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 223
-lastUpdated: 2025-04-01T04:50:58.291Z
+lastUpdated: 2025-04-01T05:15:24.079Z
 startTime: 2025-01-24T01:54:22.997Z
 generator: Upptime <https://github.com/upptime/upptime>
