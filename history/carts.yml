@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/carts/ping
-status: down
-code: 503
-responseTime: 359
-lastUpdated: 2025-04-01T04:18:23.114Z
+status: up
+code: 200
+responseTime: 214
+lastUpdated: 2025-04-01T04:40:22.749Z
 startTime: 2025-01-24T01:54:13.308Z
 generator: Upptime <https://github.com/upptime/upptime>
