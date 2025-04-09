@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/ams/ping
-status: down
-code: 504
-responseTime: 15253
-lastUpdated: 2025-04-09T06:19:21.632Z
+status: up
+code: 200
+responseTime: 222
+lastUpdated: 2025-04-09T06:43:28.466Z
 startTime: 2025-01-24T01:54:12.292Z
 generator: Upptime <https://github.com/upptime/upptime>
