@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/kycs/ping
-status: down
-code: 503
-responseTime: 226
-lastUpdated: 2025-04-21T10:36:11.354Z
+status: up
+code: 200
+responseTime: 214
+lastUpdated: 2025-04-21T10:48:42.980Z
 startTime: 2025-01-24T01:54:21.560Z
 generator: Upptime <https://github.com/upptime/upptime>
