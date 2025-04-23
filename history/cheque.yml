@@ -1,7 +1,7 @@
 url: https://qa.inframarket.cloud/cheque/ping
-status: up
-code: 200
-responseTime: 231
-lastUpdated: 2025-04-22T23:17:59.423Z
+status: down
+code: 503
+responseTime: 238
+lastUpdated: 2025-04-23T03:49:20.319Z
 startTime: 2025-01-24T01:54:13.786Z
 generator: Upptime <https://github.com/upptime/upptime>
